@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EA8B2B2E-955A-FFAF-036E-5E9671E42C26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/model/Item.cs">
+    <Files>
+      <File FileName="Assets/scripts/UI/ItemPresenter.cs" Line="37" Column="6" />
+      <File FileName="Assets/scripts/UI/Inventary.cs" Line="27" Column="1" NotebookId="1" />
+      <File FileName="Assets/scripts/model/Item.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3dTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7fdf6a68-ad6f-46e4-abea-b6301cd0ec94" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
